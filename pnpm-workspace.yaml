@@ -1,4 +1,6 @@
 packages:
-   - 'challenge-fetch'
-   - 'Challenge15'
-   - 'weather-api'
+  - 'challenge-fetch'
+  - 'Challenge15'
+  - 'weather-api'
+  - 'react-books'
+  - 'react-crud'
