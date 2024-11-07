@@ -1,6 +1,9 @@
+# aca tiene que ir el nombre de las carpetas
+# luego, para ejecutar los comandos pnpm se llama al nombre del proyecto (pe. 'react-crud')
+
 packages:
-  - 'challenge-fetch'
-  - 'Challenge15'
-  - 'weather-api'
-  - 'react-books'
-  - 'react-crud'
+  - '01-challenge-fetch'
+  - '02-Challenge15'
+  - '03-weather-api'
+  - '04-react-books'
+  - '05-react-crud'
