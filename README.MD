@@ -8,7 +8,7 @@ The projects are organized in separate folders, each containing a `README.md` fi
 
 - [challenge15](02-Challenge15): A simple React app that fetches data from a JSON API and displays it in a table.
 - [challenge-fetch](01-challenge-fetch): A React app that fetches data from a JSON API and displays it in a table. This project demonstrates how to use the `fetch` API to make requests to an API.
-- [react-crud](05-react-crud): A React app that allows users to create, read, update, and delete data from a JSON API. This project demonstrates how to use the `fetch` API to make requests to an API.
+- [react-crud](05-react-crud): redux toolkit + store/ slice + tailwindcss
 
 ## Running the Projects
 

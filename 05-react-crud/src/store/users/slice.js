@@ -1,5 +1,4 @@
 import { createSlice } from '@reduxjs/toolkit'
-import { act } from 'react'
 // el slice es una parte del stado total , y pueden existir infinitos
 // necesitan un nombre, estado inicial y reducers
 // el estado inicial no tiene q ser un objeto, puede ser un array o string.

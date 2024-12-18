@@ -7,3 +7,4 @@ packages:
   - '03-weather-api'
   - '04-react-books'
   - '05-react-crud'
+  - '06-carrito'
